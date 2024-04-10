@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex Joshua Chirwa</h1>
-- 🔭 I’m currently working on **Artificial Intelligence projects in the research field of deep learning**
+- 🔭 I’m currently working on **building my proficency in Python and aspiring to become a software engineer**
 
-- 🌱 I’m currently learning **JavaScript and Java**
+- 😎 Projects that I have worked on are in the fields of Artificial Intelligence, looking forward to building more cool and exicting project in this field
 
-- 💬 Ask me about **Python, JavaScript**
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **Chirwaalex00@gmail.com**
 
