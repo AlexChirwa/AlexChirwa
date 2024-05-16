@@ -1,5 +1,5 @@
 <h1 align="center">Hi there🙋🏾‍♂️, I'm Alex Joshua Chirwa</h1>
-- 🔭 I’m currently working on **building my proficency in Python and aspiring to become a software engineer**
+- 🔭 I’m currently working on **building my proficency in Java and aspiring to become a software engineer**
 
 - 😎 Projects that I have worked on are in the fields of Artificial Intelligence, looking forward to building more cool and exicting project in this field
 
