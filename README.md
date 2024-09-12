@@ -1,11 +1,9 @@
 <h1 align="center">Hi there🙋🏾‍♂️, I'm Alex Joshua Chirwa</h1>
-- 🔭 I’m currently working on **building my proficency in Java and aspiring to become a software engineer**
+- 🔭 I’m currently working on **building my proficency in Networking and aspiring to become a Network engineer**
 
 - 😎 Projects that I have worked on are in the fields of Artificial Intelligence, looking forward to building more cool and exicting project in this field
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Networking**
 
 - 📫 How to reach me **Chirwaalex00@gmail.com**
 
