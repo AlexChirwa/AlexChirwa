@@ -3,7 +3,7 @@
 
 - 😎 Projects that I have worked on are in the fields of Artificial Intelligence, looking forward to building more cool and exicting project in this field
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 working on my CCNA **Networking**
 
 - 📫 How to reach me **Chirwaalex00@gmail.com**
 
