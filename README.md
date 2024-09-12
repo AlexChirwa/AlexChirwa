@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **Chirwaalex00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+Via email</h3>
 <p align="left">
 </p>
 
