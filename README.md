@@ -1,18 +1,36 @@
-<h1 align="center">Hi there🙋🏾‍♂️, I'm Alex Joshua Chirwa</h1>
-- 🔭 I’m currently working on **building my proficency in Networking and aspiring to become a Network engineer**
+<h1 align="center">Hi there 👋🏾, I'm Alex Joshua Chirwa</h1>
+<h3 align="center">Network Engineering | IT Systems | Cybersecurity Enthusiast</h3>
 
-- 😎 Projects that I have worked on are in the fields of Artificial Intelligence, looking forward to building more cool and exicting project in this field
+---
 
-- 🌱 working on my CCNA **Networking**
+### 🚀 Current Focus
+- Preparing for CCNA 🧠
+- Exploring open-source database tools
+- Documenting my work with clear READMEs and GitHub projects
 
-- 📫 How to reach me **Chirwaalex00@gmail.com**
+---
 
-<h3 align="left">Connect with me:
-Via email</h3>
-<p align="left">
+### 🔧 Tools
+- Programming: `Python`, `Java`, `PHP`, `C#`
+- Database: `SQL Server`, `MySQL`, `ADO.NET`
+- Dev: `XAMPP`, `Visual Studio`, `WinForms`, `Bootstrap`
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexchirwa&show_icons=true&theme=gruvbox" alt="Alex's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchirwa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexchirwa&show_icons=true&locale=en&layout=compact" alt="alexchirwa" /></p>
+---
+
+### 📌 Featured Projects
+- [📘 Student Management System](https://github.com/AlexChirwa/Student-Management-System)
+- [📚 Library Management System](https://github.com/AlexChirwa/Development-of-a-Comprehensive-Library-Management-System-based-on-bootstrap)
+
+---
+
+### 📫 Contact
+**Email:** Chirwaalex00@gmail.com  
+**LinkedIn:** [Alex Joshua Chirwa](https://www.linkedin.com/in/alex-joshua-chirwa)
