@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Featured Projects
-- [📘 Student Management System](https://github.com/AlexChirwa/Student-Management-System)
+- [📘 Student Management System](https://github.com/AlexChirwa/Development-of-student-management-system)
 - [📚 Library Management System](https://github.com/AlexChirwa/Development-of-a-Comprehensive-Library-Management-System-based-on-bootstrap)
 
 ---
