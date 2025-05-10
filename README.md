@@ -14,6 +14,7 @@
 - Programming: `Python`, `Java`, `PHP`, `C#`
 - Database: `SQL Server`, `MySQL`, `ADO.NET`
 - Dev: `XAMPP`, `Visual Studio`, `WinForms`, `Bootstrap`
+- Networking: ![Cisco](https://img.shields.io/badge/Cisco-IOS-blue?logo=cisco)
 
 ### 📊 GitHub Stats
 
@@ -21,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexchirwa&show_icons=true&theme=gruvbox" alt="Alex's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchirwa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
